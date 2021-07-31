@@ -1,0 +1,15 @@
+# Image Classifier
+We will be following the Create your first Image Recognition Classifier using CNN, Keras and Tensorflow backend tutorial. We will make only some small adjustments because we use Docker with a newer version of Tensorflow and Keras.
+
+If you come across any Keras object of function that you are not 100% sure what it does you can look it up in this great Keras documentation.
+
+Getting Started - a Dog or a Cat
+The idea of this tutorial is to create a simple Dog/Cat Image classifier. This is a good starting point for image recognition.
+
+## Agenda
+* Collecting data
+* Importing libraries and splitting data to train and test
+* Building the network
+* Data augmentation
+* Training
+* Testing
